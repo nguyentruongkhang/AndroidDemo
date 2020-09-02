@@ -1,13 +1,15 @@
-"login": {
-	"status": true,
-	"data": {
-		"token": "abcedegjjijkf",
-		"userid": "0",
-		"username": "truongkhang",
-		"first_name": "Khang",
-		"last_name": "Nguyen",
-		"avatar": "https://upload.wikimedia.org/wikipedia/commons/5/51/Mr._Smiley_Face.svg",
-		"phone": "+8412345678",
-		"birthday": "01/01/1980"
+{
+	"login": {
+		"status": true,
+		"data": {
+			"token": "abcedegjjijkf",
+			"userid": "0",
+			"username": "truongkhang",
+			"first_name": "Khang",
+			"last_name": "Nguyen",
+			"avatar": "https://upload.wikimedia.org/wikipedia/commons/5/51/Mr._Smiley_Face.svg",
+			"phone": "+8412345678",
+			"birthday": "01/01/1980"
+		}
 	}
 }

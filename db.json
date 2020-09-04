@@ -11,5 +11,33 @@
 			"phone": "+8412345678",
 			"birthday": "01/01/1980"
 		}
+	},
+	"top_offer": {
+		"status": true,
+		"data": [{
+			"name": "Guy Couach Vedette",
+			"price": "£ 491,100",
+			"imageUrl": "https://d196r9c7cfkkpm.cloudfront.net/thumbs/large/448743-1599202848.jpg"
+		}, {
+			"name": "Sunseeker Manhattan",
+			"price": "£ 223,300",
+			"imageUrl": "https://d196r9c7cfkkpm.cloudfront.net/thumbs/large/314244-1570168801.jpg"
+		}, {
+			"name": "Grandezza 270C",
+			"price": "£ 111,600",
+			"imageUrl": "https://www.boat24.com/uk/powerboats/grandezza/grandezza-27oc/detail/414185/"
+		}, {
+			"name": "Nya Cabin Garden",
+			"price": "£ 36,300",
+			"imageUrl": "https://d196r9c7cfkkpm.cloudfront.net/thumbs/large/446996-1598250893.jpg"
+		}, {
+			"name": "Allermöhe Bootswerft Elbtrawler 1095",
+			"price": "£ 89,000",
+			"imageUrl": "https://d196r9c7cfkkpm.cloudfront.net/thumbs/large/445165-1597208969.jpg"
+		}, {
+			"name": "AD boats Salona 37",
+			"price": "£ 134,000",
+			"imageUrl": "https://d196r9c7cfkkpm.cloudfront.net/thumbs/large/415217-1573459896.jpg"
+		}]
 	}
 }
